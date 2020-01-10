@@ -1,0 +1,16 @@
+{
+  "name": "shutdown_pc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[B\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cjust trying to run cmd",
+  "scripts": {
+    "build" : "pkg app.js --out-path ./build"
+  },
+  "author": "Mohamed Abdelnaeem",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.1",
+    "nexe": "^3.3.2",
+    "pkg": "^4.4.2"
+  }
+}
